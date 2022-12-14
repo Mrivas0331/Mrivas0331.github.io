@@ -1,12 +1,13 @@
 # Hello World
 
-This is my home page! My name is Max Rivas and I am a student at Cal State Fullerton and my major is computer science.
+This is my home page! My name is Max Rivas and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is computer science.
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/Mrivas0331.
+My GitHub page is [Mrivas0331]http://github.com/Mrivas0331.
 
 ### CPSC 120
+
 
 * Lab 10, Part 2
 
